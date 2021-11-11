@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Prescilla.
+- 👀 I’m interested in new technologies, automated processes.
+- 🌱 I’m currently working with React and NodeJS technologies.
+- 📫 Reach me at prescilla@plecrx.io
