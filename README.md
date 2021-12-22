@@ -1,11 +1,11 @@
+[<img align="right" height="350px" width="350px" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/>](https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png)
+
 # 👋 <strong> Hi, I’m Prescilla.</strong>
 Mid level fullstack developer from Paris.
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true" alt="GitHub Stats"></p>
 
 ![Visitor Count](https://profile-counter.glitch.me/plecrx/count.svg)
-
-[<img align="right" height="350px" width="350px" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/>](https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png)
 
 ----
 
