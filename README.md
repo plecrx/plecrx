@@ -18,7 +18,6 @@
 https://plecrx.io
 
 ## Tech Stack  
-<table><tr><td valign="top" width="33%">
 
 **Currently working with:**
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
@@ -43,6 +42,7 @@ https://plecrx.io
 
 
 
+<table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
