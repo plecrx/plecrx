@@ -1,6 +1,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/plecrx/count.svg)
 
-![Cover](https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png)
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/>](https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png)
 
 # 👋 <strong> Hi, I’m Prescilla.</strong>, mid level fullstack developer from 
 
