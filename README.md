@@ -40,7 +40,7 @@ https://plecrx.io
 **Previously worked with:**
 
 <div align="center">
-<img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fubidreams.fr%2Fexpertises%2Fdevelopment%2Freact-native&psig=AOvVaw22Lh4hjer7RNh_TeQ2kj-q&ust=1640271791171000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMDeiN3W9_QCFQAAAAAdAAAAABAE" alt="React Native" height="50" />
+<img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fboris-setti.fr%2F&psig=AOvVaw22Lh4hjer7RNh_TeQ2kj-q&ust=1640271791171000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMDeiN3W9_QCFQAAAAAdAAAAABAK" alt="React Native" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
