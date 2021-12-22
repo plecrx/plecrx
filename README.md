@@ -9,9 +9,7 @@
 ----
 
 <br/>
-- Mid level fullstack developer from Paris.
-- 👀 I’m interested in new technologies, automated processes.
-- 🌱 I’m currently working with React and NodeJS technologies.
+With an atypical career as a former international sportswoman who has been converted to full stack developer, my personality is tinged with curiosity, dedication and sharing.I am a mid level fullstack typescript developer who considers designing tomorrow's world with connected devices as a very stimulating challenge.
 <br>
 
 ## Portfolio 
