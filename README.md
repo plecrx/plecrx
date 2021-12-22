@@ -4,12 +4,11 @@
 
 # 👋 <strong> Hi, I’m Prescilla.</strong>, mid level fullstack developer from 
 
+----
 <br/>
 
 - 👀 I’m interested in new technologies, automated processes.
 - 🌱 I’m currently working with React and NodeJS technologies.
-
-----
 <br>
 
 ## My Skill Set  
