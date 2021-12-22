@@ -2,9 +2,11 @@
 
 [<img align="left" height="150px" width="150px" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/>](https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png)
 
-# 👋 <strong> Hi, I’m Prescilla.</strong>, mid level fullstack developer from 
+# 👋 <strong> Hi, I’m Prescilla.</strong>
+- Mid level fullstack developer from Paris.
 
 ----
+<br/>
 <br/>
 
 - 👀 I’m interested in new technologies, automated processes.
