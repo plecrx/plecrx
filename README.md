@@ -35,6 +35,7 @@ https://plecrx.io
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" alt="Nx" height="50" />
+<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_storybook_icon_130145.png" alt="Storybook" height="50" />
 </div>
 
 
