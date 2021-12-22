@@ -6,12 +6,11 @@
 Mid level fullstack developer from Paris.
 
 ----
-[Visitor Count](https://profile-counter.glitch.me/plecrx/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/plecrx/count.svg)
 <br/>
 <br/>
 
 - 👀 I’m interested in new technologies, automated processes.
-<br>
 - 🌱 I’m currently working with React and NodeJS technologies.
 <br>
 
