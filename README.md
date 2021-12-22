@@ -1,3 +1,4 @@
+<br/>
 [<img align="right" height="350px" width="350px" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/>](https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png)
 
 # 👋 <strong> Hi, I’m Prescilla.</strong>
