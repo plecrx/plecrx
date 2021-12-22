@@ -66,6 +66,7 @@ Mid level fullstack developer from Paris.
 
 </td></tr></table>  
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true" alt="GitHub Stats"></p>
 
 <br>
 <br>
