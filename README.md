@@ -2,7 +2,7 @@
 
 ![Cover](https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png)
 
-# 👋 Hi, I’m Prescilla.
+# 👋 <strong> Hi, I’m Prescilla.</strong>
 
 - 👀 I’m interested in new technologies, automated processes.
 - 🌱 I’m currently working with React and NodeJS technologies.
