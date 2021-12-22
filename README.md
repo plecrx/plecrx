@@ -1,15 +1,10 @@
-![Visitor Count]https://profile-counter.glitch.me/plecrx/count.svg
+![Visitor Count](https://profile-counter.glitch.me/plecrx/count.svg)
 
 # 👋 Hi, I’m Prescilla.
 
 - 👀 I’m interested in new technologies, automated processes.
 - 🌱 I’m currently working with React and NodeJS technologies.
 - 📫 Reach me at prescilla@plecrx.io
-
-----
-## Connect with me <img src="https://media.giphy.com/media/bp0fLZr8kFz4Bm4kRV/giphy.gif" width="60">
-<br>
-<a href="https://www.linkedin.com/in/plecrx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ----
 <br>
@@ -71,3 +66,7 @@
 <br>
 
 ----
+## Connect with me <img src="https://media.giphy.com/media/bp0fLZr8kFz4Bm4kRV/giphy.gif" width="60">
+<br>
+<a href="https://www.linkedin.com/in/plecrx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
