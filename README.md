@@ -5,12 +5,15 @@
 
 
 ----
+## Connect with me <img src="https://giphy.com/embed/bp0fLZr8kFz4Bm4kRV" width="60">
+<br>
+<a href="https://www.linkedin.com/in/plecrx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+----
 <br>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
