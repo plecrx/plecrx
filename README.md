@@ -14,7 +14,10 @@
 - 🌱 I’m currently working with React and NodeJS technologies.
 <br>
 
-## My Skill Set  
+## Portfolio 
+https://plecrx.io
+
+## Tech Stack  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -53,8 +56,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
