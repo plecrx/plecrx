@@ -1,5 +1,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/plecrx/count.svg)
 
+![Cover](https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png)
+
 # 👋 Hi, I’m Prescilla.
 
 - 👀 I’m interested in new technologies, automated processes.
