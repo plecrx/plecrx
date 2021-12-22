@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/plecrx/count.svg)
+
 [<img align="left" height="150px" width="150px" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/>](https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png)
 
 # 👋 <strong> Hi, I’m Prescilla.</strong>
@@ -6,7 +8,6 @@
 ----
 <br/>
 <br/>
-![Visitor Count](https://profile-counter.glitch.me/plecrx/count.svg)
 <br/>
 - 👀 I’m interested in new technologies, automated processes.
 - 🌱 I’m currently working with React and NodeJS technologies.
