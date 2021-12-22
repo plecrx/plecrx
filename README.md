@@ -1,6 +1,6 @@
 [<img align="right" height="350px" width="350px" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/>](https://plecrx.io)
 
-# 👋 <strong> Hi, I’m Prescilla.</strong>
+# 👋 <strong> Hi, I’m Prescilla, a fullstack developer.</strong>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true" alt="GitHub Stats"></p>
 
