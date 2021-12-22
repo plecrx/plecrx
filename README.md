@@ -3,6 +3,8 @@
 # 👋 <strong> Hi, I’m Prescilla.</strong>
 Mid level fullstack developer from Paris.
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true" alt="GitHub Stats"></p>
+
 ![Visitor Count](https://profile-counter.glitch.me/plecrx/count.svg)
 
 ----
@@ -65,8 +67,6 @@ Mid level fullstack developer from Paris.
 </div>
 
 </td></tr></table>  
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true" alt="GitHub Stats"></p>
 
 <br>
 <br>
