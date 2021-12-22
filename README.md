@@ -71,7 +71,7 @@ Mid level fullstack developer from Paris.
 <br>
 
 ----
-## Connect with me <img src="https://media.giphy.com/media/bp0fLZr8kFz4Bm4kRV/giphy.gif" width="60">
+## Where to find me
 <br>
 <a href="https://www.linkedin.com/in/plecrx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:prescilla@plecrx.io"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
