@@ -34,6 +34,7 @@ https://plecrx.io
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+<img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fnx&psig=AOvVaw0QDx3aPmUNB4GSyQvRDfW_&ust=1640272162956000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMChp47Y9_QCFQAAAAAdAAAAABAE" alt="Nx" height="50" />
 </div>
 
 
