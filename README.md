@@ -44,7 +44,7 @@ https://plecrx.io
 <img style="margin: 10px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp" alt="React Native" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" />  
+<img style="margin: 10px" src="https://e7.pngegg.com/pngimages/370/646/png-clipart-apple-worldwide-developers-conference-swift-ios-apple-orange-logo.png" alt="Swift" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
