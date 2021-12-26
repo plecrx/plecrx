@@ -10,8 +10,8 @@
 
 
 <p float="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=onedark" alt="GitHub Stats" width='45%' height='auto'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=onedark" alt="Top Lang Stats" width='45%' height='auto'/>
+    <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=onedark" alt="GitHub Stats" width='50%' height='auto'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=onedark" alt="Top Lang Stats" width='50%' height='auto'/>
 </p>
 
 <br/>
