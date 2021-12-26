@@ -6,12 +6,14 @@
 
 [<div align="left"><img height="auto" width="20%" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/></div>](https://plecrx.io)
 
-<p align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=onedark" alt="GitHub Stats" width='40%' height='auto'>
-</p>
-<p align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=onedark" alt="Top Lang Stats" width='30%' height='auto'/>
-</p>
+<div>
+    <p align="right">
+        <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=onedark" alt="GitHub Stats" width='40%' height='auto'>
+    </p>
+    <p align="right">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=onedark" alt="Top Lang Stats" width='30%' height='auto'/>
+    </p>
+</div>
 
 <br/>
 
