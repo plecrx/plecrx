@@ -85,3 +85,4 @@ https://plecrx.io
 <br>
 <a href="https://www.linkedin.com/in/plecrx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:prescilla@plecrx.io"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://fr.wikipedia.org/wiki/Prescilla_Lecurieux"><img src="https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white"></a>
