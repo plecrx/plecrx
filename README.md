@@ -3,8 +3,8 @@
 # 👋 <strong> Hi, I’m Prescilla, a fullstack developer.</strong>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true" alt="GitHub Stats" width='20%' height='auto'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact" alt="Top^Lang Stats" width='20%' height='auto'/>
+  <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true" alt="GitHub Stats" width='25%' height='auto'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact" alt="Top^Lang Stats" width='25%' height='auto'/>
 </p>
 
 ![Visitor Count](https://profile-counter.glitch.me/plecrx/count.svg)
