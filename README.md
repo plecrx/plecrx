@@ -2,7 +2,7 @@
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=onedark" alt="Top Lang Stats" width='45%' height='auto'/>
-    <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=onedark" alt="GitHub Stats" width='52%' height='auto'>
+    <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=onedark" alt="GitHub Stats" width='55%' height='auto'>
 </p>
 
 
