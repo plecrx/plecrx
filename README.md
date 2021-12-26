@@ -2,7 +2,10 @@
 
 # 👋 <strong> Hi, I’m Prescilla, a fullstack developer.</strong>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true" alt="GitHub Stats" width='50%' height='auto'></p>
+<p>
+   <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true" alt="GitHub Stats" width='50%' height='auto'>
+   <img align="left" alt="Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=plecrx&show_icons=true&theme=dark" />
+</p>
 
 ![Visitor Count](https://profile-counter.glitch.me/plecrx/count.svg)
 
