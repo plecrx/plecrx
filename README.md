@@ -1,14 +1,10 @@
-[<img align="right" height="50%" width="40%" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/>](https://plecrx.io)
-<img align="right" height="50%" width="40%" alt="Views count" src="https://profile-counter.glitch.me/plecrx/count.svg"/>
+[<img align="right" height="auto" width="40%" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/>](https://plecrx.io)
 
 # 👋 <strong> Hi, I’m Prescilla, a fullstack developer.</strong>
 
-<p>
-   <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true" alt="GitHub Stats" width='50%' height='auto'>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact" alt="Top Lang Stats" width='50%' height='auto'>
-</p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true" alt="GitHub Stats" width='50%' height='auto'></p>
 
-
+![Visitor Count](https://profile-counter.glitch.me/plecrx/count.svg)
 
 ----
 
