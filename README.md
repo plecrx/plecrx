@@ -4,9 +4,10 @@
     <img src="https://profile-counter.glitch.me/plecrx/count.svg" alt="Visitor Count">
 </div>
 
-[<div align="left"><img height="auto" width="20%" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/></div>](https://plecrx.io)
-
 <div>
+    <p align="left">
+        <img height="auto" width="20%" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/>
+    </p>
     <p align="right">
         <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=onedark" alt="GitHub Stats" width='40%' height='auto'>
     </p>
