@@ -1,7 +1,5 @@
-<p>
-[<img align="right" height="auto" width="40%" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/>](https://plecrx.io)
-<img align="right" height="auto" width="40%" alt="Views count" src="https://profile-counter.glitch.me/plecrx/count.svg"/>
-</p>
+[<img align="right" height="50%" width="40%" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/>](https://plecrx.io)
+<img align="right" height="50%" width="40%" alt="Views count" src="https://profile-counter.glitch.me/plecrx/count.svg"/>
 
 # 👋 <strong> Hi, I’m Prescilla, a fullstack developer.</strong>
 
