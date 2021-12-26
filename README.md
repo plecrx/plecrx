@@ -4,7 +4,7 @@
 
 <p>
    <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true" alt="GitHub Stats" width='50%' height='auto'>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact)](https://github.com/plecrx/github-readme-stats)
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact" alt="Top Lang Stats" width='50%' height='auto'>
 </p>
 
 ![Visitor Count](https://profile-counter.glitch.me/plecrx/count.svg)
