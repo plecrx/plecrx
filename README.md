@@ -2,7 +2,9 @@
 
 [<p align="center"><img height="auto" width="20%" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/></p>](https://plecrx.io)
 
-![<p align="center">Visitor Count</p>](https://profile-counter.glitch.me/plecrx/count.svg)
+<div align='center'>
+![Visitor Count](https://profile-counter.glitch.me/plecrx/count.svg)
+</div>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=onedark" alt="GitHub Stats" width='54%' height='auto'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=onedark" alt="Top Lang Stats" width='45%' height='auto'/>
