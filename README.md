@@ -1,4 +1,4 @@
-[<div style="margin-top: 20%;"><img align="right" height="50%" width="auto" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/></div>](https://plecrx.io)
+[<div style="margin-block: auto;"><img align="right" height="50%" width="auto" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/></div>](https://plecrx.io)
 # 👋 <strong> Hi, I’m Prescilla, a fullstack developer.</strong>
 
 <p>
