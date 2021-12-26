@@ -1,11 +1,14 @@
-# <strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m <a href="https://plecrx.io">Prescilla</a> </strong>
 
 [<p align="center"><img height="auto" width="20%" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/></p>](https://plecrx.io)
 
 <div align='center'>
+    <strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m <a href="https://plecrx.io">Prescilla</a> </strong>
     <h3> Prescilla Lecurieux | 💻 Full Stack Developer | 🛸 France , FR </h3>
     <img src="https://profile-counter.glitch.me/plecrx/count.svg" alt="Visitor Count">
 </div>
+
+<br/>
+
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=onedark" alt="GitHub Stats" width='54%' height='auto'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=onedark" alt="Top Lang Stats" width='45%' height='auto'/>
