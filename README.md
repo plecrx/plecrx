@@ -1,8 +1,8 @@
 # 👋 <strong> Hi, I’m Prescilla, a fullstack developer.![Visitor Count](https://profile-counter.glitch.me/plecrx/count.svg)</strong>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=onedark" alt="Top Lang Stats" width='45%' height='auto'/>
     <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=onedark" alt="GitHub Stats" width='54%' height='auto'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=onedark" alt="Top Lang Stats" width='45%' height='auto'/>
 </p>
 
 
