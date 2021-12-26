@@ -4,17 +4,11 @@
     <img src="https://profile-counter.glitch.me/plecrx/count.svg" alt="Visitor Count">
 </div>
 
-<div>
-    <p align="left">
+<p float="left">
         <img height="auto" width="20%" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/>
-    </p>
-    <p align="right">
         <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=onedark" alt="GitHub Stats" width='40%' height='auto'>
-    </p>
-    <p align="right">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=onedark" alt="Top Lang Stats" width='30%' height='auto'/>
-    </p>
-</div>
+</p>
 
 <br/>
 
