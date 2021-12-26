@@ -6,8 +6,10 @@
 <br/>
 
 [<img align="right" height="auto" width="35%" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/>](https://plecrx.io)
-[<img align="right" src="https://profile-counter.glitch.me/plecrx/count.svg" alt="Visitor Count">](https://profile-counter.glitch.me/plecrx/count.svg)
 
+<p float="right">
+    <img src="https://profile-counter.glitch.me/plecrx/count.svg" alt="Visitor Count">
+</p>
 
 <p float="left">
     <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=onedark" alt="GitHub Stats" width='40%' height='auto'>
