@@ -14,6 +14,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=onedark" alt="Top Lang Stats" width='45%' height='auto'/>
 </p>
 
+<br/>
+
 <div align="center">
     <img src="https://profile-counter.glitch.me/plecrx/count.svg" alt="Visitor Count">
 </div>
