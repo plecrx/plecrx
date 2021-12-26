@@ -1,6 +1,6 @@
 <div style="margin-right: 30px;">
 [<img align="right" height="50%" width="auto" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/>](https://plecrx.io)
-</div
+</div>
 # 👋 <strong> Hi, I’m Prescilla, a fullstack developer.</strong>
 
 <p>
