@@ -1,6 +1,7 @@
 <div align='center'>
     <strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m <a href="https://plecrx.io">Prescilla</a> </strong>
     <h3> Prescilla Lecurieux | 💻 Full Stack Developer | Paris, France  🇫🇷  </h3>
+    <img src="https://github-profile-trophy.vercel.app/?username=plecrx&no-frame=true&no-bg=true&margin-w=10&theme=juicyfresh&title=MultiLanguage" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=plecrx&" alt="plecrx" />
 </div>
 
@@ -13,7 +14,6 @@
 <p float="left">
     <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=slateorange&hide=contribs,issues&count_private=true" alt="GitHub Stats" width='50%' height='auto'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=slateorange" alt="Top Lang Stats" width='50%' height='auto'/>
-    <img src="https://github-profile-trophy.vercel.app/?username=plecrx&no-frame=true&no-bg=true&margin-w=10&theme=juicyfresh&title=MultiLanguage" />
 </p>
 
 <br/>
