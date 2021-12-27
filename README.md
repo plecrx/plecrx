@@ -98,7 +98,7 @@ https://plecrx.io
 <details>
    <summary>🏆 Github Trophies</summary>
     <br/>
-       <img alt="Prescilla's Github Trophies" src='https://github-profile-trophy.vercel.app/?username=plecrx&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true' >
+       <img alt="Prescilla's Github Trophies" src='https://github-profile-trophy.vercel.app/?username=plecrx&theme=flat&no-frame=true&row=1&&margin-w=20&no-bg=true' >
 </details> 
 
 ----
