@@ -73,8 +73,9 @@ https://plecrx.io
 
 <div align="center">
     <strong>Visitors Count : </strong><img src="https://profile-counter.glitch.me/plecrx/count.svg" alt="Visitor Count">
-    <br/>
 </div>
+
+<br/>
 
 <p align="center">
     <img alt="Prescilla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=slateorange&hide=contribs,issues&count_private=true" height="auto" width="55%"/>
