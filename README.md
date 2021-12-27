@@ -92,7 +92,7 @@ https://plecrx.io
 <details>	
     <br/>
   <summary><b>&#x1f4c8; Github activity graph</b></summary>
-    <img alt="Prescilla's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=plecrx&count_private=true&bg_color=0e0f11&color=ffffff&line=238636&point=FFFFFF&hide_border=true">
+    <img alt="Prescilla's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=plecrx&count_private=true&bg_color=36393f&color=ffffff&line=db942a&point=FFFFFF&hide_border=true">
 </details>
 
 <details>
