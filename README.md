@@ -71,8 +71,8 @@ https://plecrx.io
 
 ## 💻 GitHub Stats
 <p align="center">
-    <img alt="Prescilla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=slateorange&hide=contribs,issues&count_private=true" height="50%" width="auto"/>
-    <img alt="Prescilla's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=slateorange" height="50%" width="auto"/>
+    <img alt="Prescilla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=slateorange&hide=contribs,issues&count_private=true" height="auto" width="55%"/>
+    <img alt="Prescilla's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=slateorange" height="auto" width="35%"/>
 </p>
 
 <details>	
@@ -84,9 +84,13 @@ https://plecrx.io
 
 <details>	
   <summary><b>&#x1f4c8; Github activity graph</b></summary>
-  <!-- Github activity graph -->
-<a href="#"><img alt="Prescilla's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=plecrx&count_private=true&bg_color=0e0f11&color=ffffff&line=238636&point=FFFFFF&hide_border=true"></a>
+    <img alt="Prescilla's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=plecrx&count_private=true&bg_color=0e0f11&color=ffffff&line=238636&point=FFFFFF&hide_border=true">
 </details>
+
+<details>
+   <summary>🏆 Github Trophies</summary>
+       <img alt="Prescilla's Github Trophies" src='https://github-profile-trophy.vercel.app/?username=plecrx&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true' >
+</details> 
 
 ----
 
