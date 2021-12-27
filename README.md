@@ -12,15 +12,14 @@
 <p float="left">
     <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=slateorange&hide=contribs,issues&count_private=true" alt="GitHub Stats" width='50%' height='auto'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=slateorange" alt="Top Lang Stats" width='50%' height='auto'/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=plecrx&" alt="plecrx" />
+    <img src="https://github-profile-trophy.vercel.app/?username=plecrx&no-frame=true&no-bg=true&margin-w=10&theme=juicyfresh&title=MultiLanguage" />
 </p>
 
 <br/>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=plecrx&no-frame=true&no-bg=true&margin-w=10&column=4&theme=juicyfresh&title=MultiLanguage,Stars,Repositories,Commits" />
-    <br/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plecrx&" alt="plecrx" />
-    <img src="https://profile-counter.glitch.me/plecrx/count.svg" alt="Visitor Count">
+   <img src="https://profile-counter.glitch.me/plecrx/count.svg" alt="Visitor Count">
 </div>
 
 <br/>
