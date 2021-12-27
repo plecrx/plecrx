@@ -73,6 +73,7 @@ https://plecrx.io
 
 <div align="center">
     <strong>Visitors Count : </strong><img src="https://profile-counter.glitch.me/plecrx/count.svg" alt="Visitor Count">
+    <br/>
 </div>
 
 <p align="center">
@@ -82,7 +83,6 @@ https://plecrx.io
 
 <details>	
     <summary><b>🔥 Github Streaks</b></summary><br>
-    <br/>
     <p align="center">
         <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=plecrx&hide_border=true&theme=dark" alt="plecrx" />
     </p>
