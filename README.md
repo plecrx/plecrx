@@ -84,6 +84,28 @@ https://plecrx.io
 <br>
 
 ----
+
+## 💻 GitHub Stats
+<p align="center">
+  <a href="#"><img alt="Prescilla's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=plecrxb&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
+  <a href="#"><img alt="Prescilla's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrxb&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
+<!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
+</p>
+
+<details>	
+  <summary><b>🔥 Github Streaks</b></summary><br>
+  <p align="center">
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=plecrxb&hide_border=true&theme=dark"></a></p>
+</details>
+
+<details>	
+  <summary><b>&#x1f4c8; Github activity graph</b></summary>
+  <!-- Github activity graph -->
+<a href="#"><img alt="Prescilla's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=plecrxb&count_private=true&bg_color=0e0f11&color=ffffff&line=238636&point=FFFFFF&hide_border=true"></a>
+</details>
+
+----
+
 ## Where to find me
 <br>
 <a href="https://www.linkedin.com/in/plecrx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
