@@ -10,13 +10,13 @@
 ----
 
 <p align="center">
-<div>
+<p align="left">
     With an atypical career as a former international sportswoman who has been converted to full stack developer, my personality is tinged with curiosity, dedication and sharing.I am a mid level fullstack typescript developer who considers designing tomorrow's world with connected devices as a very stimulating challenge.
     <br/>
 
     ## Portfolio 
     https://plecrx.io
-</div>    
+</p>    
 [<img align="right" height="auto" width="35%" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/>](https://plecrx.io)
 
 </p>
