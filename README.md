@@ -8,11 +8,6 @@
 
 [<img align="right" height="auto" width="35%" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/>](https://plecrx.io)
 
-<p float="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=slateorange&hide=contribs,issues&count_private=true" alt="GitHub Stats" width='50%' height='auto'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=slateorange" alt="Top Lang Stats" width='50%' height='auto'/>
-</p>
-
 <br/>
 
 <div align="center">
@@ -84,9 +79,9 @@ https://plecrx.io
 ## 💻 GitHub Stats
 <p align="center">
 
-  <a href="#"><img alt="Prescilla's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=plecrxb&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
-  <a href="#"><img alt="Prescilla's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrxb&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
-<!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
+    <img alt="Prescilla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=slateorange&hide=contribs,issues&count_private=true" height="192px" width="430px">
+    <img alt="Prescilla's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=slateorange" height="192px" width="360px"/>
+   
 </p>
 
 <details>	
