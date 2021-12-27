@@ -85,7 +85,7 @@ https://plecrx.io
 <details>	
     <summary><b>🔥 Github Streaks</b></summary><br>
     <p align="center">
-        <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=plecrx&hide_border=true&theme=slateorange" alt="plecrx" />
+        <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=plecrx&hide_border=true&theme=slateorange&currStreakNum=ffffff&sideNums=ffffff" alt="plecrx" />
     </p>
 </details>
 
