@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=plecrx&no-frame=true&no-bg=true&margin-w=10&column=6&theme=chalk&title=MultiLanguage,Stars,Followers,Repositories,Commits,PullRequest" />
+    <img src="https://github-profile-trophy.vercel.app/?username=plecrx&no-frame=true&no-bg=true&margin-w=10&column=4&theme=chalk&title=MultiLanguage,Stars,Repositories,Commits" />
     <img src="https://profile-counter.glitch.me/plecrx/count.svg" alt="Visitor Count">
 </div>
 
