@@ -71,10 +71,8 @@ https://plecrx.io
 
 ## 💻 GitHub Stats
 <p align="center">
-
-    <img alt="Prescilla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=slateorange&hide=contribs,issues&count_private=true" height="192px" width="430px">
+    <img alt="Prescilla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=slateorange&hide=contribs,issues&count_private=true" height="192px" width="430px"/>
     <img alt="Prescilla's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=slateorange" height="192px" width="360px"/>
-   
 </p>
 
 <details>	
