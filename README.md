@@ -72,7 +72,7 @@ https://plecrx.io
 ## 💻 GitHub Stats 
 
 <div align="center">
-    <img src="https://profile-counter.glitch.me/plecrx/count.svg" alt="Visitor Count">
+    <img src="https://profile-counter.glitch.me/plecrx/count.svg" alt="Visitor Count"> (## Visitor Count)
 </div>
 
 <p align="center">
