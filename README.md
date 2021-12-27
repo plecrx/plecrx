@@ -10,7 +10,7 @@
 
 
 <p float="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=slateorange&hide=contribs&count_private=true" alt="GitHub Stats" width='50%' height='auto'>
+    <img src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=slateorange&hide=contribs,issues&count_private=true" alt="GitHub Stats" width='50%' height='auto'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=slateorange" alt="Top Lang Stats" width='50%' height='auto'/>
 </p>
 
