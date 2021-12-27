@@ -72,7 +72,7 @@ https://plecrx.io
 ## 💻 GitHub Stats 
 
 <div align="center">
-    <strong>Visitor Count : </strong><img src="https://profile-counter.glitch.me/plecrx/count.svg" alt="Visitor Count">
+    <strong>Visitors Count : </strong><img src="https://profile-counter.glitch.me/plecrx/count.svg" alt="Visitor Count">
 </div>
 
 <p align="center">
@@ -82,18 +82,21 @@ https://plecrx.io
 
 <details>	
     <summary><b>🔥 Github Streaks</b></summary><br>
+    <br/>
     <p align="center">
         <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=plecrx&hide_border=true&theme=dark" alt="plecrx" />
     </p>
 </details>
 
 <details>	
+    <br/>
   <summary><b>&#x1f4c8; Github activity graph</b></summary>
     <img alt="Prescilla's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=plecrx&count_private=true&bg_color=0e0f11&color=ffffff&line=238636&point=FFFFFF&hide_border=true">
 </details>
 
 <details>
    <summary>🏆 Github Trophies</summary>
+    <br/>
        <img alt="Prescilla's Github Trophies" src='https://github-profile-trophy.vercel.app/?username=plecrx&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true' >
 </details> 
 
