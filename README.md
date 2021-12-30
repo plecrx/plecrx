@@ -15,7 +15,7 @@ With an atypical career as a former international sportswoman who has been conve
 <br/>
 
 ## Portfolio 
-> *** https://plecrx.io ***
+> **https://plecrx.io**
 
 <br/>
 
