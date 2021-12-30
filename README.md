@@ -1,5 +1,5 @@
 <div align='center'>
-    <strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m <a href="https://plecrx.io">PRESCILLA</a></strong>
+    <strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m <a href="https://plecrx.io">Prescilla</a></strong>
     <h3> Prescilla Lecurieux | 💻 Full Stack Developer | Paris, France  🇫🇷  </h3>
 </div>
 
@@ -15,7 +15,7 @@ With an atypical career as a former international sportswoman who has been conve
 <br/>
 
 ## Portfolio 
-> **https://plecrx.io**
+> **HTTPS://PLECRX.IO**
 
 <br/>
 
