@@ -12,7 +12,7 @@
 
 ----
 
-With an atypical career as a former international sportswoman who has been converted to full stack developer, my personality is tinged with curiosity, dedication and sharing.I am a mid level fullstack typescript developer who considers designing tomorrow's world with connected devices as a very stimulating challenge.
+With an atypical career as a former international sportswoman who has been converted to full stack development, my personality is tinged with curiosity, dedication and sharing.I am a mid level fullstack typescript developer who considers designing tomorrow's world with connected devices as a very stimulating challenge.
 <br/>
 
 ## Portfolio 
