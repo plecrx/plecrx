@@ -3,7 +3,7 @@
     <h3> Prescilla Lecurieux | 💻 Full Stack Developer | Paris, France  🇫🇷  </h3>
 </div>
 
- 
+
 [<img align="right" height="auto" width="35%" alt="KPN" src="https://github.com/plecrx/plecrx.io/blob/master/public/bitmoji.png"/>](https://plecrx.io)
 
 <br/>
