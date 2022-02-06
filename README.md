@@ -12,7 +12,7 @@
 
 ----
 
-With an atypical career as a former international sportswoman who has been converted to full stack developer, my personality is tinged with curiosity, dedication and sharing. I am an experienced fullstack developer on React and NodeJS technologies, and I consider the design of tomorrow's world with simple interfaces that fight against the digital divide as a very exciting challenge.
+With an atypical career as a former international sportswoman who has been converted to full stack developer, my personality is tinged with curiosity, dedication and sharing. I am an experienced fullstack developer on React and NodeJS technologies, and I consider the design of tomorrow's world with simple interfaces that fight against illectronism as a very exciting challenge.
 <br/>
 
 ## Portfolio 
