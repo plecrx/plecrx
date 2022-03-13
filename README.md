@@ -42,7 +42,7 @@ With an atypical career as international sportswoman who has been converted to f
 
 </div>
 
-
+ 
 **Previously worked with:**
 
 <div align="center">
