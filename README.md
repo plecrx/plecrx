@@ -10,7 +10,7 @@
 
 <br/>
 
-----
+-----
 
 With an atypical career as international sportswoman who has been converted to full stack developer, my personality is tinged with curiosity, dedication and sharing. I am a fullstack developer on React, React Native and NodeJS technologies, and I consider the design of tomorrow's world with simple interfaces that fight against illectronism as a very exciting challenge.
 <br/>
