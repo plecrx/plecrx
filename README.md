@@ -20,7 +20,7 @@ With an atypical career as international sportswoman who has been converted to f
 
 <br/>
 
-## Tech Stack  
+## Tech Stack
 
 **Currently working with:**
 <div align="center">  
