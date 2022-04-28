@@ -25,13 +25,9 @@ With an atypical career as international sportswoman who has been converted to f
 **Currently working with:**
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />     
 <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_storybook_icon_130145.png" alt="Storybook" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" alt="Nx" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /> 
-
 </div>
 
 **Learning:**
@@ -46,7 +42,10 @@ With an atypical career as international sportswoman who has been converted to f
 **Previously worked with:**
 
 <div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 <img style="margin: 10px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp" alt="React Native" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
 <img style="margin: 10px" src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" alt="Swift" height="50" />  
