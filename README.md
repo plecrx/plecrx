@@ -28,6 +28,7 @@ With an atypical career as international sportswoman who has been converted to f
 <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_storybook_icon_130145.png" alt="Storybook" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" alt="Nx" height="50" />
 <img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/next-logo.png" alt="Next" height="50" />
+<img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/netlify-logo.png" alt="Netlify" height="50" />
 </div>
 
 **Learning:**
