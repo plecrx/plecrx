@@ -36,7 +36,7 @@ With an atypical career as international sportswoman who has been converted to f
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />     
 <img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/react-three-fiber-logo.svg" alt="React Three Fiber" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/900px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" height="50" />
-
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
 </div>
 
 
