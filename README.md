@@ -72,7 +72,7 @@ With an atypical career as international sportswoman who has been converted to f
 
 ----
 
-## 💻 GitHub Stats 
+## 💻 GitHub Stats
 
 <div align="center">
     <strong>Visitors Count : </strong><img src="https://profile-counter.glitch.me/plecrx/count.svg" alt="Visitor Count">
