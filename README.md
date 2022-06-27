@@ -101,7 +101,7 @@ With an atypical career as international sportswoman who has been converted to f
 <details>
     <summary><b>🏆 Github Trophies</b></summary><br/>
        <img alt="Prescilla's Github Trophies" src='https://github-profile-trophy.vercel.app/?username=plecrx&theme=gruvbox&no-frame=true&row=1&&margin-w=20&no-bg=true' >
-</details> 
+</details>
 
 ----
 
