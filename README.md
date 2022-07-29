@@ -24,6 +24,7 @@ With an atypical career as international sportswoman who has been converted to f
 **Currently working with:**
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/900px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" height="50" />
 </br>
 <img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/next-logo.png" alt="Next" height="50" />
 <img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/netlify-logo.png" alt="Netlify" height="50" />
@@ -33,7 +34,6 @@ With an atypical career as international sportswoman who has been converted to f
 **Learning:**
 <div align="center">     
 <img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/react-three-fiber-logo.svg" alt="React Three Fiber" height="50" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/900px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
 </div>
 
