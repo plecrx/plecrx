@@ -11,7 +11,7 @@
 
 -----
 
-Former engineering school student, I have been coding for 8 years and specialize in frontend. 
+Engineering graduate, I have been coding for 8 years and specialize in frontend. 
 With a background as an international athlete turned fullstack developer, my personality is tinged with curiosity, dedication and sharing.
 I worked 4 years as a software engineer at Nokia, then 2 years as a fullstack web developer on React and NodeJS technologies. I like to make a quality code without trying to find the shortcut solution.
 <br/>
