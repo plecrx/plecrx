@@ -32,6 +32,7 @@ I worked 4 years as a software engineer at Nokia, then 2 years as a fullstack we
     * <img style="margin: 10px" src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" alt="Nx" height="20" />  NX  
 <br/>
     * <img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/netlify-logo.png" alt="Netlify" height="20" /> Netlify
+<br/>
     * <img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/next-logo.png" alt="Next" height="20" /> Next
 <br/>
     * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="20" /> Figma
