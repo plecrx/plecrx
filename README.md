@@ -25,7 +25,7 @@ I worked 4 years as a software engineer at Nokia, then 2 years as a fullstack we
 
 **Currently working with:**
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+* <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="20" /> React 
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/900px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" alt="Nx" height="50" />    
 </br>
