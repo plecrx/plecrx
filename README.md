@@ -23,8 +23,7 @@ I worked 4 years as a software engineer at Nokia, then 2 years as a fullstack we
 
 ## Tech Stack
 
-<div align='center'>**Currently working with:**</div>
-
+**Currently working with:**
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/next-logo.png" alt="Next" height="50" />
