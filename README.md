@@ -23,9 +23,9 @@ I worked 4 years as a software engineer at Nokia, then 2 years as a fullstack we
 
 ## Tech Stack
 
+<div align='center'>**Currently working with:**</div>
 
 <div align="center">
-**Currently working with:**
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/next-logo.png" alt="Next" height="50" />
 </br>
@@ -36,16 +36,14 @@ I worked 4 years as a software engineer at Nokia, then 2 years as a fullstack we
 <img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/netlify-logo.png" alt="Netlify" height="50" />
 </div>
 
-
+**Learning:** 
 <div align="center">   
-**Learning:**  
 <img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/react-three-fiber-logo.svg" alt="React Three Fiber" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
 </div>
 
-
-<div align="center">
 **Previously worked with:**
+<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /> 
 <img style="margin: 10px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp" alt="React Native" height="50" />
