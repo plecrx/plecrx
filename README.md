@@ -24,69 +24,49 @@ I worked 4 years as a software engineer at Nokia, then 2 years as a fullstack we
 ## Tech Stack
 
 **Currently working with:**
-<div align="right">
-    * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="20" /> React 
-<br/>
-    * <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/900px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" height="20" /> Tailwind
-<br/>
-    * <img style="margin: 10px" src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" alt="Nx" height="20" />  NX  
-<br/>
-    * <img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/netlify-logo.png" alt="Netlify" height="20" /> Netlify
-<br/>
-    * <img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/next-logo.png" alt="Next" height="20" /> Next
-<br/>
-    * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="20" /> Figma
-<br/>
-    * <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_storybook_icon_130145.png" alt="Storybook" height="20" /> Storybook
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/900px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" height="50" />
+</br>
+<img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/netlify-logo.png" alt="Netlify" height="50" />
+<img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/next-logo.png" alt="Next" height="50" />
+</br>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
+<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_storybook_icon_130145.png" alt="Storybook" height="50" />  
 </div>
-
-<br/>
 
 **Learning:**
-<div align="right">     
-    * <img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/react-three-fiber-logo.svg" alt="React Three Fiber" height="20" /> React Three Fiber
-<br/>
-    * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="20" /> Ruby
+<div align="center">     
+<img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/react-three-fiber-logo.svg" alt="React Three Fiber" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
 </div>
 
-<br/>
 
 **Previously worked with:**
 
-<div align="right">
-    * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="20" /> Angular
-    <br/> 
-    * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="20" /> Vue
-    <br/>
-    * <img style="margin: 10px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp" alt="React Native" height="20" /> React Native
-    <br/>
-    * <img style="margin: 10px" src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" alt="Swift" height="20" /> Swift
-    <br/>
-    * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="20" /> JAVA 
-    <br/>
-    * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="20" /> Kotlin
-    <br/>
-    * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="20" /> NodeJS
-    <br/>
-    * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="20" /> C 
-    <br/>
-    * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="20" /> C++
-    <br/>
-    * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="20" /> C#
-    <br/>
-    * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="20" /> Python
-    <br/>
-    * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="20" /> MongoDB
-    <br/>
-    * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="20" /> MariaDB
-    <br/>
-    * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="20" /> Cassandra
-    <br/>
-    * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elasticsearch" height="20" /> Elasticsearch
-    <br/>
-    * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="20" /> Docker
-    <br/>
-    * <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="20" /> Kubernetes
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /> 
+<img style="margin: 10px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp" alt="React Native" height="50" />
+<img style="margin: 10px" src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" alt="Swift" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+<br/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" />  
+<br/>
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" alt="Nx" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /> 
 </div>
 
 <br>
