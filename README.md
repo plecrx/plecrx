@@ -95,7 +95,7 @@ I worked 4 years as a software engineer at Nokia, then 2 years as a fullstack we
 <details>	
     <br/>
   <summary><b>&#x1f4c8; Github activity graph</b></summary>
-    [![Prescilla's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=plecrx&count_private=true&bg_color=36393f&color=ffffff&line=db942a&point=FFFFFF&hide_border=true)]((https://github-readme-activity-graph.cyclic.app/graph?username=plecrx&count_private=true&bg_color=36393f&color=ffffff&line=db942a&point=FFFFFF&hide_border=true))
+    <img alt="Prescilla's Activity Graph" src='https://github-readme-activity-graph.cyclic.app/graph?username=plecrx&count_private=true&bg_color=36393f&color=ffffff&line=db942a&point=FFFFFF&hide_border=true' >
 </details>
 
 <details>
