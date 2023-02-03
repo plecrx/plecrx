@@ -82,7 +82,7 @@ I worked 4 years as a software engineer at Nokia, then 2 years as a fullstack we
 
 <p align="center">
     <img alt="Prescilla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=plecrx&amp;show_icons=true&theme=slateorange&hide=contribs,issues&count_private=true&hide_border=true" height="auto" width="55%"/>
-    <img alt="Prescilla's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plecrx&layout=compact&theme=slateorange&hide_border=true" height="auto" width="35%"/>
+    <img alt="Prescilla's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=plecrx&layout=compact&theme=slateorange&hide_border=true" height="auto" width="35%"/>
 </p>
 
 <details>	
