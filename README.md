@@ -33,7 +33,7 @@ I worked 4 years as a software engineer at Nokia, then 2 years as a fullstack we
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
 <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_storybook_icon_130145.png" alt="Storybook" height="50" />  
 </br>
-<img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/netlify-logo.png" alt="Netlify" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/512px-Netlify_logo.svg.png?20230307164604" alt="Netlify" height="50" />
 </div>
 
 **Learning:** 
