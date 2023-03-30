@@ -36,8 +36,8 @@ I worked 4 years as a software engineer at Nokia, then 2 years as a fullstack we
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/512px-Netlify_logo.svg.png?20230307164604" alt="Netlify" height="50" />
 </div>
 
-**Learning:** 
-<div align="center">   
+**Learning:**
+<div align="center">
 <img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/react-three-fiber-logo.svg" alt="React Three Fiber" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
 </div>
