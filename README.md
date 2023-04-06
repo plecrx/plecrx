@@ -85,7 +85,7 @@ I worked 4 years as a software engineer at Nokia, then 2 years as a fullstack we
     <img alt="Prescilla's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=plecrx&layout=compact&theme=slateorange&hide_border=true" height="auto" width="35%"/>
 </p>
 
-<details>	
+<details>
     <summary><b>🔥 Github Streaks</b></summary><br>
     <p align="center">
         <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=plecrx&hide_border=true&theme=slateorange&currStreakNum=ffffff&sideNums=ffffff" alt="plecrx" />
