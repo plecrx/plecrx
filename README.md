@@ -35,11 +35,6 @@ I worked 4 years as a software engineer at Nokia, then 3 years as a fullstack we
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/900px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" height="50" />
 </div>
 
-**Learning:**
-<div align="center">
-<img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/react-three-fiber-logo.svg" alt="React Three Fiber" height="50" />
-</div>
-
 **Previously worked with:**
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
