@@ -13,7 +13,7 @@
 
 Engineering graduate, I have been coding for 8 years and specialize in frontend.
 With a background as an international athlete turned fullstack developer, my personality is tinged with curiosity, dedication and sharing.
-I worked 4 years as a software engineer at Nokia, then 2 years as a fullstack web developer on React and NodeJS technologies. I like to make a quality code without trying to find the shortcut solution.
+I worked 4 years as a software engineer at Nokia, then 3 years as a fullstack web developer on React, Vue and NodeJS technologies. I like to make a quality code without trying to find the shortcut solution.
 <br/>
 
 ## Portfolio
@@ -22,9 +22,9 @@ I worked 4 years as a software engineer at Nokia, then 2 years as a fullstack we
 <br/>
 
 ## Tech Stack
-
 **Currently working with:**
 <div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue3" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
 <img style="margin: 10px" src="https://github.com/plecrx/plecrx/blob/main/next-logo.png" alt="Next" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
