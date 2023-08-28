@@ -1,5 +1,5 @@
 <div align='center'>
-    <strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height=25> Hi, I’m <a href="https://plecrx.io">Prescilla</a></strong>
+    <strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height=25> Hi, I’m <a href="plecrx.netlify.app">Prescilla</a></strong>
     <h3> Prescilla Lecurieux | 💻 Software Crafter | Paris, France  🇫🇷  </h3>
 </div>
 
@@ -17,7 +17,7 @@ I worked 4 years as a software engineer at Nokia, then 3 years as a fullstack we
 <br/>
 
 ## Portfolio
-> **https://PLECRX.io**
+> **https://plecrx.netlify.app**
 
 <br/>
 
