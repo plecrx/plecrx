@@ -22,10 +22,10 @@ I worked 4 years as a software engineer at Nokia, then 3 years as a fullstack we
 <br/>
 
 ## Tech Stack
-<div style="display: flex;">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="100" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue3" height="100" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="150" />
+<div style="display: flex; align-items: center;">
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="100" />
+<img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue3" height="100" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/d/d9/20160518085101!Node.js_logo.svg/120px-Node.js_logo.svg.png" alt="Node.js" height="150" />
 </div>
 
 <br>
