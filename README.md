@@ -64,7 +64,7 @@ I worked 4 years as a software engineer at Nokia, then 3+ years as a fullstack w
 
 <details>
     <summary><b>🏆 Github Trophies</b></summary><br/>
-       <img alt="Prescilla's Github Trophies" src='https://github-profile-trophy.vercel.app/?username=plecrx&theme=gruvbox&no-frame=true&row=1&&margin-w=20&no-bg=true' >
+       <img alt="Prescilla's Github Trophies" src='https://github-profile-trophy.vercel.app/?username=plecrx&theme=gruvbox&no-frame=true&row=1&&margin-w=20&no-bg=true'>
 </details>
 
 ----
