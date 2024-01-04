@@ -52,7 +52,7 @@ I worked 4 years as a software engineer at Nokia, then 3+ years as a fullstack w
 <details>
     <summary><b>🔥 Github Streaks</b></summary><br>
     <p align="center">
-        <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=plecrx&hide_border=true&theme=slateorange&currStreakNum=ffffff&sideNums=ffffff" alt="plecrx" />
+        <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=plecrx&hide_border=true&theme=slateorange&currStreakNum=ffffff&sideNums=ffffff" alt="plecrx"/>
     </p>
 </details>
 
