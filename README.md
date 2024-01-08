@@ -24,7 +24,7 @@ I worked 4 years as a software engineer at Nokia, then 4+ years as a fullstack w
 ## Tech Stack
 <div style="display: flex; align-items: center;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Typescript" height="100" />
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="100" />
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="100"/>
 <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue3" height="100" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" height="100" />
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--X34Ci_KT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://vitejs.dev/logo.svg" alt="Vite" height="100" />
