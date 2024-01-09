@@ -29,7 +29,7 @@ I worked 4 years as a software engineer at Nokia, then 4+ years as a fullstack w
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" height="100" />
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--X34Ci_KT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://vitejs.dev/logo.svg" alt="Vite" height="100" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/d/d9/20160518085101!Node.js_logo.svg/120px-Node.js_logo.svg.png" alt="Node.js" height="150" />
-<img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2022/03/cypress.png?fit=364%2C364&ssl=1" alt="Cypress" height="100" />    
+<img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2022/03/cypress.png?fit=364%2C364&ssl=1" alt="Cypress" height="100"/>    
 </div>
 
 <br>
