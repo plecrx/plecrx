@@ -11,9 +11,9 @@
 
 -----
 
-Engineering graduate, I have been coding for 8 years and specialized in frontend.
+Engineering graduate, I have been coding for 9 years and specialized into frontend engineering.
 With a background as an international athlete turned developer, my personality is tinged with curiosity, dedication and sharing.
-I worked 4 years as a software engineer at Nokia, then 4+ years as a fullstack web developer on React, Vue and NodeJS technologies. I like to make a quality code without trying to find the dirty shortcut solution.
+I worked 4 years as a software engineer at Nokia, then 5+ years as a fullstack web developer on React, Vue and NodeJS technologies. I like to make quality code and not to settle for dirty shortcut solution.
 <br/>
 
 ## Portfolio
